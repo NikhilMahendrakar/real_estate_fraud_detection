@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2737127930",
+    "project_id": "realestatefrauddetection",
+    "storage_bucket": "realestatefrauddetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2737127930:android:ae43664fca735517736443",
+        "android_client_info": {
+          "package_name": "com.example.real_estate_fraud_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2737127930-sps88mld9f9ospqhfo7q44bbbvk65qui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8wCAWG0X1yA5zT0KmermM-dP_tfxcwRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2737127930-sps88mld9f9ospqhfo7q44bbbvk65qui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
